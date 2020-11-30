@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-EBookApp/Pods-EBookApp-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/OpalImagePicker/OpalImagePickerResources.bundle
+${PODS_ROOT}/Segmentio/Segmentio/Source/Badge/Views/BadgeWithCounterViewBigSized.xib
+${PODS_ROOT}/Segmentio/Segmentio/Source/Badge/Views/BadgeWithCounterViewStandardSized.xib
+${PODS_CONFIGURATION_BUILD_DIR}/Segmentio/Segmentio.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/XLPagerTabStrip/XLPagerTabStrip.bundle
